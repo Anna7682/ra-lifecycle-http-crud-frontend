@@ -1,0 +1,3 @@
+[submodule "ra-lifecycle-http-crud-backend"]
+	path = ra-lifecycle-http-crud-backend
+	url = https://github.com/Anna7682/ra-lifecycle-http-crud-backend.git
